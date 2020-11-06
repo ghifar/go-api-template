@@ -5,6 +5,7 @@ Template for APIs developed in Go (Golang). Based on concepts from [DDD and Clea
 ## Dependencies
 * [Gin](https://github.com/gin-gonic/gin)
 * [JWT](https://github.com/dgrijalva/jwt-go)
+* [Testify](https://github.com/stretchr/testify)
 
 ## Usage
 
