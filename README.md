@@ -2,12 +2,14 @@
 
 Template for APIs developed in Go (Golang). Based on concepts from [DDD and Clean Architecture](https://medium.com/@mastanca/clean-architecture-ddd-a-mixed-approach-773ab4623e14).
 
-## Used Libraries
+## Dependencies
 * [Gin](https://github.com/gin-gonic/gin)
+* [JWT](https://github.com/dgrijalva/jwt-go)
 
 ## Usage
 
 Search everywhere in the project for the string ``` github.com/mastanca/go-api-template ``` and replace with your module.
+Also look out for TODOs everywhere in the template
 
 ### Run
 
